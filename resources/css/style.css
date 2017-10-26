@@ -1,9 +1,36 @@
 html {
   font-family: Helvetica;
+  text-align: center;
 }
 .top {
   background-image: url("D:projects/broadway/resources/images/the-flatiron-building.png");
+  color: white;
+  font-size: 70px;
 }
 .design {
   background-image: url("D:projects/broadway/resources/images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+#nav {
+  color: white;
+  font-size: 18px;
+}
+h3 {
+  font-weight: bold;
+  font-size: 32px;
+}
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+#bottom {
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
 }
