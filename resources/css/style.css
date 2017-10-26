@@ -1,6 +1,6 @@
 html {
   font-family: Helvetica;
 }
-#top, #middle, #design, #lower {
-  text-align: center;
+.top {
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
