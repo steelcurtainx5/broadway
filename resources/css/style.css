@@ -8,7 +8,7 @@ html {
   font-size: 70px;
 }
 .design {
-  background-image: url("./resources/images/the-flatiron-building.png");
+  background-image: url("../resources/images/the-flatiron-building.png");
   font-size: 23px;
   font-weight: bold;
   color: white;
