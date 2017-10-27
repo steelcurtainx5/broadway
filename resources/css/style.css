@@ -11,8 +11,8 @@ html {
 }
 .design {
   background-image: url("../images/the-flatiron-building.png");
-  background-position: center;
   background-repeat: no-repeat;
+  background-position: center;
   font-size: 23px;
   font-weight: bold;
   color: white;
