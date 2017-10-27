@@ -5,11 +5,14 @@ html {
 .top {
   background-image: url("../images/the-flatiron-building.png");
   background-repeat: no-repeat;
+  background-position: center;
   color: white;
   font-size: 70px;
 }
 .design {
   background-image: url("../images/the-flatiron-building.png");
+  background-position: center;
+  background-repeat: no-repeat;
   font-size: 23px;
   font-weight: bold;
   color: white;
