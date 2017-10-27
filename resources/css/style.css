@@ -4,6 +4,7 @@ html {
 }
 .top {
   background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
   color: white;
   font-size: 70px;
 }
